@@ -3,8 +3,8 @@
 	<channel>
 		<title>Portfolio</title>
 		<description>web-sites, applications, pet-projects and more</description>
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://burakov.cf/</link>
+		<atom:link href="http://burakov.cf//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Standard Post</title>
@@ -15,8 +15,8 @@
 </description>
 				
 				<pubDate>Tue, 10 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/standard/</link>
-				<guid isPermaLink="true">/standard/</guid>
+				<link>http://burakov.cf//standard/</link>
+				<guid isPermaLink="true">http://burakov.cf//standard/</guid>
 			</item>
 		
 			<item>
@@ -28,8 +28,8 @@
 </description>
 				
 				<pubDate>Mon, 09 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/youtube/</link>
-				<guid isPermaLink="true">/youtube/</guid>
+				<link>http://burakov.cf//youtube/</link>
+				<guid isPermaLink="true">http://burakov.cf//youtube/</guid>
 			</item>
 		
 			<item>
@@ -41,8 +41,8 @@
 </description>
 				
 				<pubDate>Sun, 08 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/audio/</link>
-				<guid isPermaLink="true">/audio/</guid>
+				<link>http://burakov.cf//audio/</link>
+				<guid isPermaLink="true">http://burakov.cf//audio/</guid>
 			</item>
 		
 			<item>
@@ -54,8 +54,8 @@
 </description>
 				
 				<pubDate>Sat, 07 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/img/</link>
-				<guid isPermaLink="true">/img/</guid>
+				<link>http://burakov.cf//img/</link>
+				<guid isPermaLink="true">http://burakov.cf//img/</guid>
 			</item>
 		
 			<item>
@@ -67,8 +67,8 @@
 </description>
 				
 				<pubDate>Fri, 06 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/gallery/</link>
-				<guid isPermaLink="true">/gallery/</guid>
+				<link>http://burakov.cf//gallery/</link>
+				<guid isPermaLink="true">http://burakov.cf//gallery/</guid>
 			</item>
 		
 			<item>
@@ -81,8 +81,8 @@ The featured image will be added at the beginning of the content, but not above 
 </description>
 				
 				<pubDate>Thu, 05 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/standard-full/</link>
-				<guid isPermaLink="true">/standard-full/</guid>
+				<link>http://burakov.cf//standard-full/</link>
+				<guid isPermaLink="true">http://burakov.cf//standard-full/</guid>
 			</item>
 		
 			<item>
@@ -94,8 +94,8 @@ The featured image will be added at the beginning of the content, but not above 
 </description>
 				
 				<pubDate>Wed, 04 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/youtube-full/</link>
-				<guid isPermaLink="true">/youtube-full/</guid>
+				<link>http://burakov.cf//youtube-full/</link>
+				<guid isPermaLink="true">http://burakov.cf//youtube-full/</guid>
 			</item>
 		
 			<item>
@@ -107,8 +107,8 @@ The featured image will be added at the beginning of the content, but not above 
 </description>
 				
 				<pubDate>Tue, 03 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/audio-full/</link>
-				<guid isPermaLink="true">/audio-full/</guid>
+				<link>http://burakov.cf//audio-full/</link>
+				<guid isPermaLink="true">http://burakov.cf//audio-full/</guid>
 			</item>
 		
 			<item>
@@ -120,8 +120,8 @@ The featured image will be added at the beginning of the content, but not above 
 </description>
 				
 				<pubDate>Mon, 02 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/img-full/</link>
-				<guid isPermaLink="true">/img-full/</guid>
+				<link>http://burakov.cf//img-full/</link>
+				<guid isPermaLink="true">http://burakov.cf//img-full/</guid>
 			</item>
 		
 			<item>
@@ -134,8 +134,8 @@ The setup basically is the same, the include makes all the difference.&lt;/p&gt;
 </description>
 				
 				<pubDate>Sun, 01 Feb 2015 00:00:00 +0800</pubDate>
-				<link>/gallery-alt/</link>
-				<guid isPermaLink="true">/gallery-alt/</guid>
+				<link>http://burakov.cf//gallery-alt/</link>
+				<guid isPermaLink="true">http://burakov.cf//gallery-alt/</guid>
 			</item>
 		
 			<item>
@@ -147,8 +147,8 @@ The setup basically is the same, the include makes all the difference.&lt;/p&gt;
 </description>
 				
 				<pubDate>Sat, 31 Jan 2015 00:00:00 +0800</pubDate>
-				<link>/vimeo/</link>
-				<guid isPermaLink="true">/vimeo/</guid>
+				<link>http://burakov.cf//vimeo/</link>
+				<guid isPermaLink="true">http://burakov.cf//vimeo/</guid>
 			</item>
 		
 	</channel>
